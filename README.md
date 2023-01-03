@@ -11,3 +11,5 @@ Il s'agit d'un répertoire de code pour  un projet avec  back-end (Sanity) pour 
 
 # ReactJs Sanity
 
+Incomplet
+
